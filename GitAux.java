@@ -10,8 +10,9 @@ package prgitejemplo;
  */
 public class GitAux {
     
-    public void metodoAlumno1(){
-        System.out.println("metodo 1");
+    // Método hecho por Víctor Manuel.
+    public void metodoAlumno1(){        
+        System.out.println("Esto es una prueba.");
     }
     
     public void metodoAlumno2(){
