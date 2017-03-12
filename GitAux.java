@@ -19,12 +19,12 @@ public class GitAux {
     }
 	
     public void metodoMiguel(){
-	//Metodo echo por Miguel de la Morena Pérez.
+	//Metodo hecho por Miguel de la Morena Pérez.
     }
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
-	//Aqui estubo Miguel.
+	//Aqui estuvo Miguel.
     }
 
   
