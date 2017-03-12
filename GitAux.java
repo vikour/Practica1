@@ -17,8 +17,14 @@ public class GitAux {
     public void metodoAlumno2(){
         System.out.println("metodo 2");
     }
+
+    public void metodoAlumno3(){
+        //Comentario por Alberto Ramírez Mena
+	System.out.println("metodo 3");
+    }
     
     public void metodoComunitario(){
-        System.out.println("Aqui escribimos todos");
+        //Go go PowerRangers
+	System.out.println("Aqui escribimos todos");
     }
 }
