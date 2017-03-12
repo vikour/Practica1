@@ -6,3 +6,4 @@ Los colaboradores son:
 * Víctor Manuel Ortiz Guardeño
 * Juan Palma Borda
 * Miguel de la Morena Pérez
+* Alberto Ramírez Mena
