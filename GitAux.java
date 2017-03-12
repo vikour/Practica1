@@ -17,8 +17,15 @@ public class GitAux {
     public void metodoAlumno2(){
         System.out.println("metodo 2");
     }
+	
+    public void metodoMiguel(){
+	//Metodo echo por Miguel de la Morena Pérez.
+    }
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+	//Aqui estubo Miguel.
     }
+
+  
 }
