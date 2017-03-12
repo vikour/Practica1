@@ -21,7 +21,7 @@ public class GitAux {
 
 	
     public void metodoMiguel(){
-	//Metodo echo por Miguel de la Morena Pérez.
+	//Metodo hecho por Miguel de la Morena Pérez.
     }
     
     public void metodoAlumno3(){
@@ -31,7 +31,8 @@ public class GitAux {
     
     public void metodoComunitario(){
         //Go go PowerRangers
-	System.out.println("Aqui escribimos todos");
+        System.out.println("Aqui escribimos todos");
+	//Aqui estuvo Miguel.
 
     }
 
