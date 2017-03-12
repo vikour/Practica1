@@ -19,6 +19,7 @@ public class GitAux {
     }
 
     public void metodoComunitario(){
+        //Primero en comentar Juan
         System.out.println("Aqui escribimos todos");
     }
 }
