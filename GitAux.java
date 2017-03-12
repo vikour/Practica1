@@ -14,11 +14,10 @@ public class GitAux {
     public void metodoAlumno1(){        
         System.out.println("Esto es una prueba.");
     }
-    
+    //Comentario hecho por Juan Palma Borda
     public void metodoAlumno2(){
-        System.out.println("metodo 2");
+        System.out.println("Aqui estuvo Juan Palma Borda");
     }
-
 	
     public void metodoMiguel(){
 	//Metodo hecho por Miguel de la Morena Pérez.
@@ -30,7 +29,8 @@ public class GitAux {
     }
     
     public void metodoComunitario(){
-        //Go go PowerRangers
+        //Primero en comentar Juan
+	//Go go PowerRangers
         System.out.println("Aqui escribimos todos");
 	//Aqui estuvo Miguel.
 
